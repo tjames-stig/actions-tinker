@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("new tag")
+	fmt.Println("new tag again")
 }
