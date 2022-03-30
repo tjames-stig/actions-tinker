@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("no tagging")
+	fmt.Println("new tag")
 }
