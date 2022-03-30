@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("vim-go")
+	fmt.Println("new version!!")
 }
