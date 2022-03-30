@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("new version!!")
+	fmt.Println("no tagging")
 }
